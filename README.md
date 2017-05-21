@@ -105,4 +105,4 @@
 なぜゴッホは貧乏で、ピカソは金持ちだったのか  
 聖書 ヨハネによる福音書1章1節
 https://ja.wikipedia.org/wiki/%E5%A4%A9%E8%B3%A6%E4%BA%BA%E6%A8%A9%E8%AA%AC
-
+http://diamond.jp/articles/-/105089?page=2
