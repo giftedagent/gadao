@@ -21,7 +21,7 @@
 
 ## 前提
 
-「[ZENOS](https://www.gitbook.com/book/zenos/zenos/details)」を基本原則とする。
+「[ZENOS](https://github.com/ozcn/zenos)」を基本原則とする。
 
 ## 価値基準
 
