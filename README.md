@@ -138,6 +138,10 @@ http://logmi.jp/216005
 * 人格 = オペレーションシステム
 * 知識・技能 = アプリケーション
 
+## 大事なこと
+
+* 多数のLIKEより、少数のLOVE
+
 ## 参考資料
 
 [http://www.freeworldcharter.org/ja/more](http://www.freeworldcharter.org/ja/more)  
